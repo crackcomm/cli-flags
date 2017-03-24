@@ -1,8 +1,8 @@
-# cli-flag
+# cli-flags
 
-[![GoDoc](https://godoc.org/github.com/crackcomm/crawl?status.svg)](https://godoc.org/github.com/crackcomm/cli-flag)
+[![GoDoc](https://godoc.org/github.com/crackcomm/cli-flags?status.svg)](https://godoc.org/github.com/crackcomm/cli-flags)
 
-Go helpers for [gopkg.in/urfave/cli.v2](https://gopkg.in/urfave/cli.v2).
+Flags helpers for [gopkg.in/urfave/cli.v2](https://gopkg.in/urfave/cli.v2).
 
 ## License
 
